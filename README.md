@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzyuko&show_icons=true&locale=en&layout=compact" alt="nzyuko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzyuko&show_icons=true&locale=en" alt="nzyuko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzyuko&show_icons=true&theme=nightowl&locale=en" alt="nzyuko" /></p>
