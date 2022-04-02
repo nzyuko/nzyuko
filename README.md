@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Nzyuko</h1>
+- 👨‍💻 All of my projects are available at [nzyuko.github.io](nzyuko.github.io)
 
+- 📫 How to reach me **johnnzyuko514@gmail.com**
 
 <p align="left">
 </p>
